@@ -1,0 +1,6 @@
+{
+  "name": "autogrow",
+  "repository": "factorial-io/autogrow",
+  "version": "1.0.4",
+  "scripts": ["autogrow.js"]
+}
